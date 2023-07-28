@@ -3,7 +3,6 @@
 
 ![image](https://github.com/TheAnkushAgarwal/Job-Listing/assets/96491776/bf67cba0-6718-47b9-9172-b605e98a383b)
 
-![image](https://github.com/TheAnkushAgarwal/Job-Listing/assets/96491776/f1e13b5c-33d2-434b-8198-e2a43c16cb1b)
 
 
 # Technologies Used
